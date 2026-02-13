@@ -1,4 +1,4 @@
-# Flask AI Job Portal
+# AI Job Portal
 
 A comprehensive job portal application built with Flask featuring AI-powered resume parsing and intelligent chatbot for recruiters.
 
